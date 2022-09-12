@@ -28,7 +28,7 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 
 
 ### English Level: 
-![Intermediate](/home/yono/Desktop/rsschool-cv/eng_level.png)
+![Intermediate][certificate]
 
 курсы на стэпике по джc
 
@@ -43,3 +43,4 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
+[certificate]: /home/yono/Desktop/rsschool-cv/eng_level.png
