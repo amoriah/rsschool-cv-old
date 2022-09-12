@@ -1,4 +1,4 @@
-### rsschool-cv
+### [rsschool-cv][0]
 
 ## Yana Onoyko
 
@@ -60,6 +60,7 @@ function alphabetPosition(text)
 
 фото
 
+[0]: https://rs.school/
 [1]: https://github.com/amoriah/libft
 [2]: https://github.com/amoriah/push_swap
 [3]: https://github.com/amoriah/ft_printf
