@@ -3,10 +3,10 @@
 ## Yana Onoyko
 
 ### You can contact me:
-* *Phone:* +7 (982) 135-90-59
-* *Telegram:* @onoyana
-* *Insagram:* yana.onoyko
-* *Discord:* Yana (@amoriah)
+* **Phone:** +7 (982) 135-90-59
+* **Telegram:** @onoyana
+* **Insagram:** yana.onoyko
+* **Discord:** Yana (@amoriah)
 
 ### Hi there! 
 I'm studying to become a frontend developer and I'm only at the beginning of my journey.<br/>
