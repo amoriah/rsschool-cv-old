@@ -6,8 +6,8 @@
 
 ### Hi there! 
 I'm studying to become a frontend developer and I'm only at the beginning of my journey.<br/>
-Now I'm taking a course in *rs-school* (GIT, HTML, CSS, JavaScript, Browser API, NodeJS, Algorithms).<br/>
-Also I'm studying in *School 21* in Kazan.<br/>
+Now I'm taking a course in **rs-school** (GIT, HTML, CSS, JavaScript, Browser API, NodeJS, Algorithms).<br/>
+Also I'm studying in **School 21** in Kazan.<br/>
 I want to learn the necessary tools to be in demand in the market and make useful and beautiful things.
 
 ### My skills: 
