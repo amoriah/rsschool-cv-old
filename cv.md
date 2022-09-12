@@ -27,7 +27,7 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * Work with SHELl: [born2beRoot][7].
 
 ### Code examples:
-'''
+```
 function alphabetPosition(text) {
   text = text.toLowerCase();
   let new_str;
@@ -46,7 +46,7 @@ function alphabetPosition(text) {
     new_str = '';
   return String(new_str);
   }
-'''
+```
 
 ### English Level: 
 ![Intermediate][certificate]
