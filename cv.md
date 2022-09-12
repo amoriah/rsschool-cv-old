@@ -21,11 +21,32 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * GitHub
 * VS Code. 
 
-### Work experience and code examples:
+### Work experience: 
 * Projects in C: [libft][1], [push_swap][2], [ft_printf][3], [pipex][4], [get_next_line][5].
 * Projects in C++: [CPP_Piscine][6].
 * Work with SHELl: [born2beRoot][7].
 
+### Code examples:
+'''
+function alphabetPosition(text) {
+  text = text.toLowerCase();
+  let new_str;
+  for (let char of text)
+  {
+    if (char >= 'a' && char <= 'z')
+    {
+      let nb = char.charCodeAt(0) - 96;
+      if (!new_str)
+        new_str = nb;
+      else
+        new_str = new_str + " " + nb;
+    }
+  }
+  if (!new_str)
+    new_str = '';
+  return String(new_str);
+  }
+'''
 
 ### English Level: 
 ![Intermediate][certificate]
