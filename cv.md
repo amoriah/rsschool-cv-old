@@ -34,4 +34,4 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 
 пример решения задачи с Codewars в качестве примера кода
 
-[1]: (https://github.com/amoriah/libft)
+[^1]:([https://github.com/amoriah/libft])
