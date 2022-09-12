@@ -26,6 +26,8 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * Projects in C++: [CPP_Piscine](https://github.com/amoriah/cpp-module_amor).
 * Work with SHELl: [born2beRoot](https://github.com/amoriah/born2beroot).
 
+[1]:(https://github.com/amoriah/libft)
+
 ### English Level: [Intermediate](./home/yono/Desktop/rsschool-cv/Screen Shot 2022-09-05 at 2.12.05 PM.png)
 
 курсы на стэпике по джc
@@ -34,4 +36,3 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 
 пример решения задачи с Codewars в качестве примера кода
 
-[^1]:(https://github.com/amoriah/libft)
