@@ -19,9 +19,9 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * VS Code. 
 
 ### Work experience and code examples:
-* Projects in C: [libft](https://github.com/amoriah/libft), push_swap, ft_printf, pipex, get_next_line.
-* Projects in C++: CPP_Piscine.
-* Work with SHELl: born2beRoot.
+* Projects in C: [libft](https://github.com/amoriah/libft), [push_swap](https://github.com/amoriah/push_swap), [ft_printf](https://github.com/amoriah/ft_printf), [pipex](https://github.com/amoriah/pipex), [get_next_line](https://github.com/amoriah/get_next_line).
+* Projects in C++: [CPP_Piscine](https://github.com/amoriah/cpp-module_amor).
+* Work with SHELl: [born2beRoot](https://github.com/amoriah/born2beroot).
 
 ### English Level: Intermediate
 
