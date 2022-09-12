@@ -64,4 +64,4 @@ function alphabetPosition(text) {
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
-[certificate]: /home/yono/Desktop/rsschool-cv/eng_level.png
+//[certificate]: eng_level.png
