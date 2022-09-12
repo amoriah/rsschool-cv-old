@@ -51,7 +51,8 @@ function alphabetPosition(text) {
 ### English Level: 
 ![Intermediate][certificate]
 
-курсы на стэпике по джc
+### JavaScript course:
+![course][stepik]
 
 фото
 
@@ -64,4 +65,5 @@ function alphabetPosition(text) {
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
-[certificate]: eng_level.png
+[certificate]: eng_level.png "Intermediate"
+[stepik]: stepik_course.png
