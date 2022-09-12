@@ -1,9 +1,12 @@
+### rsschool-cv
+
 ## Yana Onoyko
 
 ### You can contact me:
-* Telegram: @onoyana
-* Insagram: yana.onoyko
-* Discord: Yana (@amoriah)
+* *Phone:* +7 (982) 135-90-59
+* *Telegram:* @onoyana
+* *Insagram:* yana.onoyko
+* *Discord:* Yana (@amoriah)
 
 ### Hi there! 
 I'm studying to become a frontend developer and I'm only at the beginning of my journey.<br/>
@@ -28,7 +31,8 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 
 ### Code examples from _Codewars_:
 ```
-function alphabetPosition(text) {
+function alphabetPosition(text)
+{
   text = text.toLowerCase();
   let new_str;
   for (let char of text)
@@ -45,7 +49,7 @@ function alphabetPosition(text) {
   if (!new_str)
     new_str = '';
   return String(new_str);
-  }
+}
 ```
 
 ### English Level: 
@@ -55,8 +59,6 @@ function alphabetPosition(text) {
 ![course][stepik]
 
 фото
-
-пример решения задачи с Codewars в качестве примера кода
 
 [1]: https://github.com/amoriah/libft
 [2]: https://github.com/amoriah/push_swap
