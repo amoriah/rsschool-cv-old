@@ -26,7 +26,7 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * Projects in C++: [CPP_Piscine][6].
 * Work with SHELl: [born2beRoot][7].
 
-### Code examples:
+### Code examples from _Codewars_:
 ```
 function alphabetPosition(text) {
   text = text.toLowerCase();
