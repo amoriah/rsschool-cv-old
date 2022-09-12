@@ -22,11 +22,10 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * VS Code. 
 
 ### Work experience and code examples:
-* Projects in C: [libft][1], [push_swap](https://github.com/amoriah/push_swap), [ft_printf](https://github.com/amoriah/ft_printf), [pipex](https://github.com/amoriah/pipex), [get_next_line](https://github.com/amoriah/get_next_line).
-* Projects in C++: [CPP_Piscine](https://github.com/amoriah/cpp-module_amor).
-* Work with SHELl: [born2beRoot](https://github.com/amoriah/born2beroot).
+* Projects in C: [libft][1], [push_swap][2], [ft_printf][3], [pipex][4], [get_next_line][5].
+* Projects in C++: [CPP_Piscine][6].
+* Work with SHELl: [born2beRoot][7].
 
-[1]: https://github.com/amoriah/libft
 
 ### English Level: [Intermediate](./home/yono/Desktop/rsschool-cv/Screen Shot 2022-09-05 at 2.12.05 PM.png)
 
@@ -36,3 +35,10 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 
 пример решения задачи с Codewars в качестве примера кода
 
+[1]: https://github.com/amoriah/libft
+[2]: https://github.com/amoriah/push_swap
+[3]: https://github.com/amoriah/ft_printf
+[4]: https://github.com/amoriah/pipex
+[5]: https://github.com/amoriah/get_next_line
+[6]: https://github.com/amoriah/cpp-module_amor
+[7]: https://github.com/amoriah/born2beroot
