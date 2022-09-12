@@ -27,7 +27,8 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * Work with SHELl: [born2beRoot][7].
 
 
-### English Level: [Intermediate](./home/yono/Desktop/rsschool-cv/Screen Shot 2022-09-05 at 2.12.05 PM.png)
+### English Level: 
+![Intermediate](./home/yono/Desktop/rsschool-cv/Screen Shot 2022-09-05 at 2.12.05 PM.png)
 
 курсы на стэпике по джc
 
