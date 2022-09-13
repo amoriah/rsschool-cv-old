@@ -20,7 +20,7 @@ I want to learn the necessary tools to be in demand in the market and make usefu
 * Mac
 * Git
 * GitHub
-* VS Code. 
+* VS Code 
 
 ### Work experience for _School 21_: 
 * Projects in C: [libft][1], [push_swap][2], [ft_printf][3], [pipex][4], [get_next_line][5].
