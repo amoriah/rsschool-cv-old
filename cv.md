@@ -58,7 +58,8 @@ function alphabetPosition(text)
 * Russian: Native
 
 ### JavaScript course:
-![course][stepik]
+![course](https://stepik.org/course/2223)
+<!-- [stepik] -->
 
 [1]: https://github.com/amoriah/libft
 [2]: https://github.com/amoriah/push_swap
@@ -67,6 +68,6 @@ function alphabetPosition(text)
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
-[certificate]: eng(1).png "Intermediate"
+[certificate]: eng.png "Intermediate"
 [stepik]: stepik_course.png
-[my_photo]: photo(1).jpg
+[my_photo]: photo.jpg
