@@ -72,4 +72,4 @@ function alphabetPosition(text)
 [7]: https://github.com/amoriah/born2beroot
 [certificate]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/eng%20.png "Intermediate"
 <!-- [stepik]: stepik_course.png -->
-[my_photo]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo%20.jpg
+[my_photo]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo.jpg
