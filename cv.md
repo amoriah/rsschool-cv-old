@@ -1,5 +1,4 @@
 ## Yana Onoyko
-<!-- [photo][my_photo] -->
 
 ### You can contact me:
 * **Telegram:** [@onoyana](https://t.me/onoyana)
@@ -53,14 +52,10 @@ function alphabetPosition(text)
 
 ### Lenguages:
 * English Level (test from www.efset.org): Intermediate
-
-![Intermediate][certificate]
-
 * Russian: Native
 
 ### JavaScript course:
 [Stepik certificate](https://stepik.org/cert/1548544)
-<!-- [stepik] -->
 
 [1]: https://github.com/amoriah/libft
 [2]: https://github.com/amoriah/push_swap
@@ -69,6 +64,3 @@ function alphabetPosition(text)
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
-[certificate]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/eng%20.png "Intermediate"
-<!-- [stepik]: stepik_course.png -->
-<!-- [my_photo]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo.jpg -->
