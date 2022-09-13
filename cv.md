@@ -1,12 +1,12 @@
 ## Yana Onoyko
-
+![photo][my_photo]
 ### You can contact me:
 * **Telegram:** [@onoyana](https://t.me/onoyana)
 * **Discord:** [Yana (@amoriah)](https://discordapp.com/users/1015941711744225300/)
 * **Phone:** +7 (982) 135-90-59
 <!-- * **Insagram:** yana.onoyko -->
 
-### Hi there! 
+### Hi there! 🌈
 I'm studying to become a frontend developer and I'm only at the beginning of my journey.<br/>
 Now I'm taking a course in ***rs-school*** (GIT, HTML, CSS, JavaScript, Browser API, NodeJS, Algorithms).<br/>
 Also I'm studying in ***School 21*** in Kazan.<br/>
@@ -66,3 +66,4 @@ function alphabetPosition(text)
 [7]: https://github.com/amoriah/born2beroot
 [certificate]: eng_level.png "Intermediate"
 [stepik]: stepik_course.png
+[my_photo]: photo.jpg
