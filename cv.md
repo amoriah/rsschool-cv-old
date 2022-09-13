@@ -1,7 +1,6 @@
 ## Yana Onoyko
-![q](https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo.jpg)
-[photo][my_photo]
 
+<!-- [photo][my_photo] -->
 ### You can contact me:
 * **Telegram:** [@onoyana](https://t.me/onoyana)
 * **Discord:** [Yana (@amoriah)](https://discordapp.com/users/1015941711744225300/)
