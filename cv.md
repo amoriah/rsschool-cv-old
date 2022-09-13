@@ -8,7 +8,7 @@
 * **E-mail:** yonoyko@bk.ru
 * **Phone:** +7 (982) 135-90-59
 
-### Hi there! 🌈:rainbow:
+### Hi there! 🌈
 I'm studying to become a frontend developer and I'm only at the beginning of my journey.<br/>
 Now I'm taking a course in ***rs-school*** (GIT, HTML, CSS, JavaScript, Browser API, NodeJS, Algorithms).<br/>
 Also I'm studying in ***School 21*** in Kazan.<br/>
@@ -67,6 +67,6 @@ function alphabetPosition(text)
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
-[certificate]: eng.png "Intermediate"
+[certificate]: eng(1).png "Intermediate"
 [stepik]: stepik_course.png
 [my_photo]: photo(1).jpg
