@@ -53,8 +53,10 @@ function alphabetPosition(text)
 ```
 
 ### Lenguages:
-* English Level (test from www.efset.org): 
+* English Level (test from www.efset.org):
+
 ![Intermediate][certificate]
+
 * Russian: Native
 
 ### JavaScript course:
