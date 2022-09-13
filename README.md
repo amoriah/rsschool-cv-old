@@ -1,5 +1,5 @@
 # rsschool-cv
 
-[amoriah][0]
+[amoriah][1]
 
-[0] : https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+[1] : https://amoriah.github.io/rsschool-cv/cv
