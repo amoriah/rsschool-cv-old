@@ -1,7 +1,6 @@
 ## Yana Onoyko
 
-![photo][my_photo]
-
+<!-- ![photo][my_photo] -->
 ### You can contact me:
 * **Telegram:** [@onoyana](https://t.me/onoyana)
 * **Discord:** [Yana (@amoriah)](https://discordapp.com/users/1015941711744225300/)
@@ -53,7 +52,7 @@ function alphabetPosition(text)
 ```
 
 ### Lenguages:
-* English Level (test from www.efset.org):
+* English Level (test from www.efset.org): Intermediate
 
 ![Intermediate][certificate]
 
@@ -72,4 +71,4 @@ function alphabetPosition(text)
 [7]: https://github.com/amoriah/born2beroot
 [certificate]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/eng%20.png "Intermediate"
 <!-- [stepik]: stepik_course.png -->
-[my_photo]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo.jpg
+<!-- [my_photo]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo.jpg -->
