@@ -58,7 +58,7 @@ function alphabetPosition(text)
 * Russian: Native
 
 ### JavaScript course:
-![course](https://stepik.org/cert/1548544)
+[Stepik certificate](https://stepik.org/cert/1548544)
 <!-- [stepik] -->
 
 [1]: https://github.com/amoriah/libft
