@@ -2,7 +2,7 @@
 
 ### You can contact me:
 * **Phone:** +7 (982) 135-90-59
-* **Telegram:** [@onoyana](http://t.me/onoyana)
+* **Telegram:** [@onoyana](https://t.me/onoyana)
 * **Insagram:** yana.onoyko
 * **Discord:** Yana (@amoriah)
 
