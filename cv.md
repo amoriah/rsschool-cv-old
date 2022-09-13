@@ -68,6 +68,6 @@ function alphabetPosition(text)
 [5]: https://github.com/amoriah/get_next_line
 [6]: https://github.com/amoriah/cpp-module_amor
 [7]: https://github.com/amoriah/born2beroot
-[certificate]: eng.png "Intermediate"
+[certificate]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/eng%20.png "Intermediate"
 <!-- [stepik]: stepik_course.png -->
-[my_photo]: photo.jpg
+[my_photo]: https://github.com/amoriah/rsschool-cv/blob/gh-pages/img/photo%20.jpg
